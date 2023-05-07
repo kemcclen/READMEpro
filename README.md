@@ -1,7 +1,7 @@
- # fake title
+ # title
   
 ## Description: 
-   good
+   cool
 
 ## Table of Contents: 
 - [Installation](#installation)
@@ -12,10 +12,10 @@
 - [Questions](#questions)
    
 ## Installation: 
-   download
+   install it
   
 ## Usage: 
-   use it
+   use it 
 
  ## License:
 The project is under the license: MIT 
@@ -26,7 +26,7 @@ The project is under the license: MIT
    dont
    
 ## Testing: 
-   trust me
+   dont
    
 ## Contact: 
-   abcd@gmail.com
+   abc@gmail.com
