@@ -1,7 +1,7 @@
- # title
+ # READMEpro
   
 ## Description: 
-   cool
+   READMEpro is a command-line application that dynamically generates a professionald README.md file from a user's input. Allowing the project creator to devote more time to working on the project.
 
 ## Table of Contents: 
 - [Installation](#installation)
@@ -12,10 +12,12 @@
 - [Questions](#questions)
    
 ## Installation: 
-   install it
+   1. Download or clone files 
+   2. In terminal/command line enter “npm install” 
+   3. Run “node index.js”
   
 ## Usage: 
-   use it 
+   Invoke using “node index.js” answer the questions and a file will automatically be generated for you!
 
  ## License:
 The project is under the license: MIT 
@@ -23,10 +25,10 @@ The project is under the license: MIT
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
 ## Contributions: 
-   dont
+   N/A
    
 ## Testing: 
-   dont
+   N/A
    
 ## Contact: 
-   abc@gmail.com
+   kemcclen on GitHub

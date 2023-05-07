@@ -44,7 +44,7 @@ const questions = [
     {
         type: 'input',
         name: 'questions',
-        message: 'What email address would you like to be reached out to with questions?'
+        message: 'What email address/gitHub would you like to be reached out to with questions?'
     },
 
 ];
