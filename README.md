@@ -19,6 +19,10 @@
 ## Usage: 
    Invoke using “node index.js” answer the questions and a file will automatically be generated for you!
 
+
+https://user-images.githubusercontent.com/123762040/236952015-159e9087-eaac-4729-9121-89211f520bef.mov
+
+
  ## License:
 The project is under the license: MIT 
 
